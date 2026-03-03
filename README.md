@@ -2,16 +2,24 @@ Este repositório tem como objetivo armazenar o os códigos utilizados na constr
 
 Integrantes:
 
-Fogaça, Jorge. Diniz, Murillo.
+Fogaça, Jorge.
 
 Centro Universitário Facens - Sorocaba, SP, Brasil
+
 jorginho.deadv@gmail.com
+
+Diniz, Murillo.
+
 Centro Universitário Facens - Sorocaba, SP, Brasil
+
 murilloadiniz19@gmail.com
+
+----------------------------------
 
 Orientador:
 
 Santiago, Fábio.
 
 Centro Universitário Facens - Sorocaba, SP, Brasil
+
 fabio.santiago@facens.br
