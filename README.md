@@ -6,13 +6,9 @@ Fogaça, Jorge.
 
 Centro Universitário Facens - Sorocaba, SP, Brasil
 
-jorginho.deadv@gmail.com
-
 Diniz, Murillo.
 
 Centro Universitário Facens - Sorocaba, SP, Brasil
-
-murilloadiniz19@gmail.com
 
 ----------------------------------
 
@@ -21,5 +17,3 @@ Orientador:
 Santiago, Fábio.
 
 Centro Universitário Facens - Sorocaba, SP, Brasil
-
-fabio.santiago@facens.br
